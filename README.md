@@ -1,6 +1,31 @@
 Instagram Challenge
 ===================
 
+User Stories
+* As a User
+* So I can use the application
+* I want to be able to sign-up
+
+* As a User
+* So I can use the application
+* I want to be able to sign-in
+
+* As a User
+* So I can use the application securely
+* I want to be able to sign-out
+
+* As a User
+* So I can share images
+* I want to be able to post pictures
+
+* As a User
+* So I can comment on pictures
+* I want to be able to write comments to pictures
+
+* As a User
+* So I can like pictures
+* I want to be able to like pictures
+
 Instructions
 -------
 * Challenge time: one weekend
